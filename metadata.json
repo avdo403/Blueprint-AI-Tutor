@@ -1,0 +1,5 @@
+{
+  "name": "Blueprint AI Tutor",
+  "description": "Learn Unreal Engine Blueprints with AI in Kurdish Sorani. Paste your blueprint code and get a node-by-node explanation.",
+  "requestFramePermissions": []
+}
